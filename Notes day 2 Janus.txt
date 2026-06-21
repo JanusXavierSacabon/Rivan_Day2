@@ -257,3 +257,7 @@ end
 
 clear dmvpn session interface tunnel 1
 sh crypto ikev2 sa
+
+
+Restconf - 443/HTTPS, using format JSON/XML, following YANG data modeling language. http verbs/methods
+Netconf - 830/SSH, XML, YANG. RPC( Remote procedural calls)
